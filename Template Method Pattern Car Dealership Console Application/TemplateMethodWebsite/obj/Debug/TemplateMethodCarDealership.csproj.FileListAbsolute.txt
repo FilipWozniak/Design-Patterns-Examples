@@ -1,0 +1,7 @@
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\bin\Debug\TemplateMethodCarDealership.exe.config
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\bin\Debug\TemplateMethodCarDealership.exe
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\bin\Debug\TemplateMethodCarDealership.pdb
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\obj\Debug\TemplateMethodCarDealership.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\obj\Debug\TemplateMethodCarDealership.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\obj\Debug\TemplateMethodCarDealership.exe
+C:\Users\Filip\Desktop\TemplateMethodCarDealership\TemplateMethodWebsite\obj\Debug\TemplateMethodCarDealership.pdb

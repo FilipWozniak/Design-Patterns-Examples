@@ -1,0 +1,26 @@
+﻿<Window x:Class="ChainofResponsibilityCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChainofResponsibilityCalculator"
+        mc:Ignorable="d"
+        Title="Chain of Responsibility Calculator" Height="180" Width="500"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="161*"/>
+            <ColumnDefinition Width="331*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox  x:Name="NumberOneField" HorizontalAlignment="Left" Height="24" Margin="10,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="122" TextChanged="NumberOneField_TextChanged"/>
+        <TextBox x:Name="NumberTwoField" HorizontalAlignment="Left" Height="24" Margin="0,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" Grid.Column="1" TextChanged="NumberTwoField_TextChanged"/>
+        <Button x:Name="AddButton" Content="Add" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Width="75" Click="AddButton_Click"/>
+        <Button x:Name="SubstractButton" Content="Substract" HorizontalAlignment="Left" Margin="98,92,0,0" VerticalAlignment="Top" Width="74" Grid.ColumnSpan="2" Click="SubstractButton_Click"/>
+        <Button x:Name="MultiplyButton" Content="Multiply" HorizontalAlignment="Left" Margin="23,92,0,0" VerticalAlignment="Top" Width="74" Grid.Column="1" Click="MultiplyButton_Click"/>
+        <Button x:Name="DivideButton" Content="Divide" HorizontalAlignment="Left" Margin="111,92,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1" Click="DivideButton_Click"/>
+        <TextBlock x:Name="Result" Grid.Column="1" HorizontalAlignment="Left" Margin="201,33,0,0" TextWrapping="Wrap" Text="Result: " VerticalAlignment="Top" />
+        <TextBlock HorizontalAlignment="Left" Margin="40,10,0,0" TextWrapping="Wrap" Text="Number One" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1"><Run Text="Number "/><Run Text="Two"/></TextBlock>
+
+    </Grid>
+</Window>

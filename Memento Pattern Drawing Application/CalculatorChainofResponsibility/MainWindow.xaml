@@ -1,0 +1,25 @@
+﻿<Window x:Class="CalculatorChainofResponsibility.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculatorChainofResponsibility"
+        mc:Ignorable="d"
+        Title="Memento Drawing Program" Height="430" Width="800"
+        ResizeMode="NoResize">
+    <Grid >
+        <StackPanel x:Name="StackMainWindow">
+
+            <Canvas   Height="308" Name="paintSurface" MouseDown="PaintSurface_MouseDown" MouseMove="PaintSurface_MouseMove" Margin="0,0,0,111" >
+                <Canvas.Background>
+                    <SolidColorBrush Color="Green" Opacity="100"/>
+                </Canvas.Background>
+            </Canvas>
+        </StackPanel>
+        <TextBlock x:Name="DebugButton" TextWrapping="Wrap" Text="Debug: " Margin="171,364,404,9"/>
+        <TextBlock x:Name="DebugButtonCurrent" TextWrapping="Wrap" Text="Current Drawing: " Margin="457,363,71,10"/>
+        <Button FontSize="18" Content="Save Drawing" HorizontalAlignment="Left" Margin="303,318,0,0" VerticalAlignment="Top" Width="141" Height="41" x:Name="SaveDrawing" Click="SaveDrawing_Click"/>
+        <Button FontSize="18" Content="Undo Drawing" HorizontalAlignment="Left" Margin="46,318,0,0" VerticalAlignment="Top" Width="159" Height="41" x:Name="UndoDrawing" Click="UndoDrawing_Click"/>
+        <Button FontSize="18" Content="Redo Drawing" HorizontalAlignment="Left" Margin="541,318,0,0" VerticalAlignment="Top" Width="182" Height="41" x:Name="RedoDrawing" Click="RedoDrawing_Click"/>
+    </Grid>
+</Window>

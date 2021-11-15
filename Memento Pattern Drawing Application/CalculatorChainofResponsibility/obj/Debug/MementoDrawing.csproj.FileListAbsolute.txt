@@ -1,0 +1,45 @@
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\App.g.cs
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MainWindow.baml
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.exe.config
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.exe
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.pdb
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing_MarkupCompile.cache
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing_MarkupCompile.lref
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.g.resources
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.Properties.Resources.resources
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.exe
+C:\Users\Filip\Desktop\CalculatorChainofResponsibility\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.pdb
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.exe.config
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.exe
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.pdb
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\App.g.cs
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing_MarkupCompile.cache
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing_MarkupCompile.lref
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MainWindow.baml
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.g.resources
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.Properties.Resources.resources
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.exe
+C:\Users\Filip\Desktop\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.pdb
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.exe.config
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.exe
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\bin\Debug\MementoDrawing.pdb
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\App.g.cs
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing_MarkupCompile.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing_MarkupCompile.lref
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MainWindow.baml
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.g.resources
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.Properties.Resources.resources
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.exe
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\MementoDrawing\CalculatorChainofResponsibility\obj\Debug\MementoDrawing.pdb

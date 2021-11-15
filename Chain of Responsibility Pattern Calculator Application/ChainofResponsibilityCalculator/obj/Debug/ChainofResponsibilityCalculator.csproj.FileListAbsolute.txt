@@ -1,0 +1,30 @@
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\App.g.cs
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator_MarkupCompile.cache
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator_MarkupCompile.lref
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\bin\Debug\ChainofResponsibilityCalculator.exe.config
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\bin\Debug\ChainofResponsibilityCalculator.exe
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\bin\Debug\ChainofResponsibilityCalculator.pdb
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\MainWindow.baml
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.g.resources
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.Properties.Resources.resources
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.exe
+C:\Users\Filip\Desktop\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.pdb
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\bin\Debug\ChainofResponsibilityCalculator.exe.config
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\bin\Debug\ChainofResponsibilityCalculator.exe
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\bin\Debug\ChainofResponsibilityCalculator.pdb
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\App.g.cs
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator_MarkupCompile.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator_MarkupCompile.lref
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\MainWindow.baml
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.g.resources
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.Properties.Resources.resources
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.exe
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\ChainofResponsibilityCalculator\ChainofResponsibilityCalculator\obj\Debug\ChainofResponsibilityCalculator.pdb

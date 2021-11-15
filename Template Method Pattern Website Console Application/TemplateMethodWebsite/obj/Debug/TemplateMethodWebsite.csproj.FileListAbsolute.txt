@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\bin\Debug\TemplateMethodWebsite.exe.config
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\bin\Debug\TemplateMethodWebsite.exe
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\bin\Debug\TemplateMethodWebsite.pdb
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.exe
+C:\Users\Filip\Desktop\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.pdb
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\bin\Debug\TemplateMethodWebsite.exe.config
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\bin\Debug\TemplateMethodWebsite.exe
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\bin\Debug\TemplateMethodWebsite.pdb
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.exe
+C:\Users\Filip\Desktop\BYT 45 - Filip Woźniak (S16983)\TemplateMethodWebsite\TemplateMethodWebsite\obj\Debug\TemplateMethodWebsite.pdb
